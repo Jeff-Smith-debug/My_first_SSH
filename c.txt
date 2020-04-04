@@ -1,1 +1,2 @@
 add c file.
+Creating a new branch is quick.
